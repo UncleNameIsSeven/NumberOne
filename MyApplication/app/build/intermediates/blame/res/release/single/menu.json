@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\menu\\hello_world.xml",
+        "source": "E:\\Android\\MyApplication\\app\\src\\main\\res\\menu\\hello_world.xml"
+    },
+    {
+        "merged": "E:\\Android\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_hello_world_drawer.xml",
+        "source": "E:\\Android\\MyApplication\\app\\src\\main\\res\\menu\\activity_hello_world_drawer.xml"
+    }
+]
